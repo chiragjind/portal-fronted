@@ -1,0 +1,38 @@
+
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: var(--bs-navbar-nav-link-padding-x);
+    padding-left: var(--bs-navbar-nav-link-padding-x);
+    color: #17dede !important;
+    font-weight: 260px;
+}
+
+.btn-outline-dark {
+    --bs-btn-color: #09e7cb !important;
+}
+
+.w-100 {
+    width: 100%!important;
+    height: 506px;
+}
+
+.pro1{
+    width: 50%;
+    background: red;
+}
+.pro2{
+    width: 70%;
+    background:#17dede;
+}
+.pro3{
+    width: 80%;
+    background: black;
+}
+
+@media screen and (max-width: 900px){
+
+.sizze{
+    font-size: 15px;
+}
+
+}
